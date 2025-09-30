@@ -1,6 +1,6 @@
 # Assignment 2 (10-point): 3D Kinetic Sculpture
 
-![Demo](./assets/demo.mp4)
+https://github.com/user-attachments/assets/759e917b-ec26-4398-ac0b-d4bb5283f404
 
 #### Controls
 - Tab to switch between light mode and camera mode
