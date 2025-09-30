@@ -222,11 +222,9 @@ int main() {
 				state.ub.light_pos = vec4(state.view.pos, state.ub.light_pos.w);
 				if (state.keys.left_click) {
 					state.ub.ambient_str += clr_speed * dt;
-					state.keys.left_click = false;
 				}
 				if (state.keys.right_click) {
 					state.ub.ambient_str -= clr_speed * dt;
-					state.keys.right_click = false;
 				}
 				break;
 			case CAM:
